@@ -1,2 +1,2 @@
 # Jinkx
-Demo for github class
+Demo for github class.
